@@ -1,12 +1,10 @@
 <h1 align="center">Services Page Multi-Page Application 🌟</h1>
 
-## Description
-
 The Services Page Multi-Page Application is a simple and visually appealing website built using HTML and CSS, with Flexbox for layout structuring. This project consists of multiple pages that showcase different services offered by a business or individual, ensuring a clean and responsive design for an optimal user experience.
 
 ## Project Overview
 
-This project is designed to present services in an organized and structured way using a modern layout. With a focus on usability and aesthetics, the application provides an intuitive interface that is easy to navigate. Flexbox ensures a flexible, responsive design that adapts to different screen sizes.
+This project is designed to present services in an organised and structured way using a modern layout. With a focus on usability and aesthetics, the application provides an intuitive interface that is easy to navigate. Flexbox ensures a flexible, responsive design that adapts to different screen sizes.
 
 ## Features
 
